@@ -1,6 +1,7 @@
 ---
-title: Hello World
+title: Introduction
 date: "2019-05-03T22:12:03.284Z"
+description: "Beginnings"
 ---
 
 I have planned on starting a blog for such a long time. The one thing keeping me from it
